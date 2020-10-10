@@ -1,0 +1,28 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# direnv
+.envrc
+
+# IDE Setting Files
+.idea
+
+# output go build
+go-gin-mysql-todo-api
+tmp
+
+# Air(Live reload for Go apps) Setting Files
+# .air.conf
+
+# goenv Setting Files
+.go-version
